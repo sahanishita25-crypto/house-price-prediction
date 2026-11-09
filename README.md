@@ -44,7 +44,5 @@ The main objective is to build a Machine Learning model that can predict house p
 
 \## Project Status
 
-In Progress
-
-
+Main Branch Version
 
